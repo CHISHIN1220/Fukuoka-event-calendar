@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:19:17.017Z",
+  "updatedAt": "2026-11-23T08:34:17.327Z",
   "events": [
     {
       "name": "『Wings:あひるの夢-Fukuoka-』",
@@ -154,6 +154,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/14001.html",
       "source": "SOKO",
       "description": "米津玄師 2026年 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "DAICHI MIURA LIVE TOUR 2026 Raw / Bare",
+      "startDate": "2026-11-27T00:00:00+09:00",
+      "endDate": "2026-11-27T23:59:59+09:00",
+      "venue": "福岡サンパレス",
+      "area": "福岡",
+      "category": "その他",
+      "url": "https://live-events.a-jp.org/soko/evg/15445.html",
+      "source": "SOKO",
+      "description": "三浦大知 2026年 全国ホールツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
       "name": "Zeke Deux",
@@ -849,17 +860,6 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
-      "name": "BUMP OF CHICKEN TOUR 2026",
-      "startDate": "2026-12-12T00:00:00+09:00",
-      "endDate": "2026-12-13T23:59:59+09:00",
-      "venue": "マリンメッセ福岡",
-      "area": "福岡",
-      "category": "その他",
-      "url": "https://live-events.a-jp.org/soko/evg/14497.html",
-      "source": "SOKO",
-      "description": "BUMP OF CHICKEN 2026年 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
-    },
-    {
       "name": "Hey! Say! JUMP DOME TOUR 2026-2027 Juliet",
       "startDate": "2026-12-12T00:00:00+09:00",
       "endDate": "2026-12-13T23:59:59+09:00",
@@ -880,17 +880,6 @@
       "url": "https://land-f.jp/shows/11374/",
       "source": "マリンメッセ福岡公式",
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
-    },
-    {
-      "name": "GLAY ARENA TOUR 2026-2027 ”EXOFIRE”",
-      "startDate": "2026-12-19T00:00:00+09:00",
-      "endDate": "2026-12-20T23:59:59+09:00",
-      "venue": "マリンメッセ福岡",
-      "area": "福岡",
-      "category": "その他",
-      "url": "https://live-events.a-jp.org/soko/evg/15196.html",
-      "source": "SOKO",
-      "description": "GLAY 2026-2027年 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
       "name": "TOMORROW X TOGETHER WORLD TOUR ＜STEAL THE WIND＞ IN JAPAN",
@@ -924,17 +913,6 @@
       "url": "https://www.kyodo-west.co.jp/artist_page.php?a_id=2029",
       "source": "マリンメッセ福岡公式",
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
-    },
-    {
-      "name": "Saucy Dog ARENA TOUR 2026-2027 NEW GAME＋",
-      "startDate": "2026-12-23T00:00:00+09:00",
-      "endDate": "2026-12-23T23:59:59+09:00",
-      "venue": "マリンメッセ福岡",
-      "area": "福岡",
-      "category": "その他",
-      "url": "https://live-events.a-jp.org/soko/evg/14642.html",
-      "source": "SOKO",
-      "description": "Saucy Dog 2026-2027全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
       "name": "BIGBANG 2026 WORLD TOUR IN JAPAN",
@@ -1256,17 +1234,6 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
-      "name": "EIKICHI YAZAWA CONCERT TOUR『GOLD RUSH 2027』",
-      "startDate": "2027-05-08T00:00:00+09:00",
-      "endDate": "2027-05-09T23:59:59+09:00",
-      "venue": "マリンメッセ福岡",
-      "area": "福岡",
-      "category": "その他",
-      "url": "https://live-events.a-jp.org/soko/evg/15744.html",
-      "source": "SOKO",
-      "description": "矢沢永吉 2027年・春 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
-    },
-    {
       "name": "ナオト・インティライミ LIVE TOUR 2027",
       "startDate": "2027-06-19T00:00:00+09:00",
       "endDate": "2027-06-19T23:59:59+09:00",
@@ -1333,5 +1300,5 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     }
   ],
-  "notice": "福岡市公式RSS、SOKO、イープラス（手動収集分）を掲載。県内全イベントの網羅ではありません。"
+  "notice": "福岡市公式RSS、SOKO、イープラス・マリンメッセ福岡公式（手動収集分）を掲載。県内全イベントの網羅ではありません。"
 }
