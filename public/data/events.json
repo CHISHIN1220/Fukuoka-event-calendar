@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:27:16.115Z",
+  "updatedAt": "2026-11-23T09:33:44.697Z",
   "events": [
     {
       "name": "FUKUOKA OH SADAHARU LEGACY PROJECT SPECIAL MATCH",
@@ -132,6 +132,17 @@
       "url": "https://eplus.jp/sf/live/kyushu-okinawa/fukuoka",
       "source": "イープラス",
       "description": "チケット: 受付中（イープラス掲載情報）"
+    },
+    {
+      "name": "アビスパ福岡 vs 横浜F・マリノス（J1 第16節）",
+      "startDate": "2026-11-25T19:00:00+09:00",
+      "endDate": "2026-11-25T21:00:00+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351403",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（19:00キックオフ）"
     },
     {
       "name": "ミュージカル『RENT』",
@@ -948,6 +959,17 @@
       "description": "Hey! Say! JUMP 2026-2027 4大ドームツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "アビスパ福岡 vs FC東京（J1 第19節）",
+      "startDate": "2026-12-13T15:00:00+09:00",
+      "endDate": "2026-12-13T17:00:00+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351437",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（15:00キックオフ）"
+    },
+    {
       "name": "読売書法展九州展",
       "startDate": "2026-12-18T00:00:00+09:00",
       "endDate": "2026-12-20T23:59:59+09:00",
@@ -1023,6 +1045,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/15810.html",
       "source": "SOKO",
       "description": "TOMORROW X TOGETHER 2026-2027 来日公演（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "アビスパ福岡 vs 清水エスパルス（J1 第20節）",
+      "startDate": "2026-12-19T14:30:00+09:00",
+      "endDate": "2026-12-19T16:30:00+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351446",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（14:30キックオフ）"
     },
     {
       "name": "CHOI集会 〜ごちそうさま〜 全国!? Zeppツアー in クリスマス 2026",
@@ -1432,6 +1465,17 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
+      "name": "アビスパ福岡 vs 名古屋グランパス（J1 第22節）",
+      "startDate": "2027-02-20T00:00:00+09:00",
+      "endDate": "2027-02-21T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351467",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（試合日は2/20または2/21（未定））"
+    },
+    {
       "name": "九州旅行博覧会 ～トラベラーズフェス2027～",
       "startDate": "2027-02-27T00:00:00+09:00",
       "endDate": "2027-02-28T23:59:59+09:00",
@@ -1476,6 +1520,17 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
+      "name": "アビスパ福岡 vs 柏レイソル（J1 第24節）",
+      "startDate": "2027-03-06T00:00:00+09:00",
+      "endDate": "2027-03-07T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351486",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（試合日は3/6または3/7（未定））"
+    },
+    {
       "name": "sumika Live Tour 2027 『Laurens Library』",
       "startDate": "2027-03-12T00:00:00+09:00",
       "endDate": "2027-03-13T23:59:59+09:00",
@@ -1496,6 +1551,28 @@
       "url": "https://www.hakataza.co.jp/lineup/161",
       "source": "博多座公式",
       "description": "博多座 公式ラインナップより"
+    },
+    {
+      "name": "九州電力キューデンヴォルテクス vs 清水建設江東ブルーシャークス（リーグワン ディビジョン2 第9節）",
+      "startDate": "2027-03-13T00:00:00+09:00",
+      "endDate": "2027-03-13T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/363087",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（ラグビー・リーグワン）"
+    },
+    {
+      "name": "アビスパ福岡 vs ジェフユナイテッド千葉（J1 第27節）",
+      "startDate": "2027-03-20T00:00:00+09:00",
+      "endDate": "2027-03-21T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351516",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（試合日は3/20または3/21（未定））"
     },
     {
       "name": "東京スカパラダイスオーケストラARENA TOUR 2027［SKA］SHOWDOWN Episode2",
@@ -1542,6 +1619,17 @@
       "description": "玉置浩二 2027年 ビルボードクラシックス コンサートツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "アビスパ福岡 vs FC町田ゼルビア（J1 第30節）",
+      "startDate": "2027-04-17T00:00:00+09:00",
+      "endDate": "2027-04-18T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351546",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（試合日は4/17または4/18（未定））"
+    },
+    {
       "name": "きゃりーぱみゅぱみゅ 15th ANNIVERSARY JAPAN TOUR 2027",
       "startDate": "2027-04-18T00:00:00+09:00",
       "endDate": "2027-04-18T23:59:59+09:00",
@@ -1575,6 +1663,17 @@
       "description": "Mr.Children 2027年 ドーム＆スタジアムツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "アビスパ福岡 vs 東京ヴェルディ（J1 第32節）",
+      "startDate": "2027-04-29T00:00:00+09:00",
+      "endDate": "2027-04-29T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351564",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より"
+    },
+    {
       "name": "EIKICHI YAZAWA CONCERT TOUR 2027「GOLD RUSH 2027」",
       "startDate": "2027-05-08T00:00:00+09:00",
       "endDate": "2027-05-09T23:59:59+09:00",
@@ -1584,6 +1683,17 @@
       "url": "https://goldrush2027.eikichiyazawa.com/",
       "source": "マリンメッセ福岡公式",
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "アビスパ福岡 vs 京都サンガF.C.（J1 第34節）",
+      "startDate": "2027-05-09T00:00:00+09:00",
+      "endDate": "2027-05-09T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351587",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より"
     },
     {
       "name": "ミュージカル『メアリ・シェリー』",
@@ -1597,6 +1707,17 @@
       "description": "博多座 公式ラインナップより"
     },
     {
+      "name": "アビスパ福岡 vs 鹿島アントラーズ（J1 第36節）",
+      "startDate": "2027-05-22T00:00:00+09:00",
+      "endDate": "2027-05-23T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351607",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（試合日は5/22または5/23（未定））"
+    },
+    {
       "name": "『夫婦漫才』",
       "startDate": "2027-05-27T00:00:00+09:00",
       "endDate": "2027-05-30T23:59:59+09:00",
@@ -1606,6 +1727,17 @@
       "url": "https://www.hakataza.co.jp/lineup/164",
       "source": "博多座公式",
       "description": "博多座 公式ラインナップより"
+    },
+    {
+      "name": "アビスパ福岡 vs 川崎フロンターレ（J1 第37節）",
+      "startDate": "2027-05-29T00:00:00+09:00",
+      "endDate": "2027-05-30T23:59:59+09:00",
+      "venue": "ベスト電器スタジアム",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://spocale.com/games/351616",
+      "source": "スポカレ",
+      "description": "スポカレ（ベスト電器スタジアム日程）より（試合日は5/29または5/30（未定））"
     },
     {
       "name": "『六月博多座大歌舞伎』",
@@ -1696,5 +1828,5 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     }
   ],
-  "notice": "福岡市公式RSS、SOKO、イープラス・マリンメッセ福岡（A館・B館）公式・PayPayドーム公式・福岡国際会議場公式・博多座公式（手動収集分）を掲載。県内全イベントの網羅ではありません。"
+  "notice": "福岡市公式RSS、SOKO、イープラス・マリンメッセ福岡（A館・B館）公式・PayPayドーム公式・福岡国際会議場公式・博多座公式・スポカレ（手動収集分）を掲載。県内全イベントの網羅ではありません。"
 }
