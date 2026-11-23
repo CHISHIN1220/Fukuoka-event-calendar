@@ -1,0 +1,13 @@
+// Official Fukuoka City RSS -> linked pages -> dated schema.org Event records.
+// Event dates are never guessed from article titles.
+const fs=require("node:fs"),path=require("node:path");
+const feeds=[
+ ["福岡市イベント情報","https://www.city.fukuoka.lg.jp/data/open/rss/RSS_7236.xml"],
+ ["福岡市文化・スポーツ","https://www.city.fukuoka.lg.jp/data/open/rss/RSS_10808.xml"]
+];
+const clean=s=>String(s||"").replace(/<[^>]+>/g," ").replace(/&amp;/g,"&").replace(/&quot;/g,'"').replace(/&lt;/g,"<").replace(/&gt;/g,">").replace(/\s+/g," ").trim();
+async function get(u){const r=await fetch(u,{headers:{"user-agent":"FukuokaEventCalendar/1.0"},signal:AbortSignal.timeout(12000)});if(!r.ok)throw Error("HTTP "+r.status);return r.text()}
+function rssItems(xml){let a=[];for(const m of xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)){let b=m[0],f=t=>{let z=b.match(new RegExp(`<${t}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${t}>`,"i"));return z?clean(z[1].replace(/<!\[CDATA\[|\]\]>/g,"")):""},title=f("title"),link=f("link");if(title&&/^https?:\/\//.test(link))a.push({title,link})}return a}
+function kind(n){if(/ライブ|コンサート|ツアー|音楽/.test(n))return"ライブ・コンサート";if(/スポーツ|試合|大会/.test(n))return"スポーツ";if(/祭|フェス|花火|マルシェ/.test(n))return"祭り・地域イベント";if(/展示|学会/.test(n))return"展示会・学会";if(/舞台|演劇/.test(n))return"舞台・演劇";return"その他"}
+function extract(html,source,url){let out=[];for(const m of html.matchAll(/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)){try{let j=JSON.parse(m[1]),roots=Array.isArray(j)?j:[j];for(const r of roots)for(const n of [r,...(r["@graph"]||[])]){let t=Array.isArray(n["@type"])?n["@type"]:[n["@type"]];if(t.includes("Event")&&n.name&&n.startDate){let l=n.location||{};out.push({name:clean(n.name),startDate:n.startDate,endDate:n.endDate||n.startDate,venue:clean(l.name||l.address?.addressLocality||""),area:"福岡",category:kind(n.name),url:n.url||url,source})}}}catch{}}return out}
+(async()=>{let all=[];for(const [source,feed] of feeds){try{for(const item of rssItems(await get(feed)).slice(0,40)){try{all.push(...extract(await get(item.link),source,item.link))}catch(e){console.warn("article skipped",item.link)}}}catch(e){console.warn("feed skipped",feed,e.message)}}let map=new Map();for(const e of all)map.set([e.name,e.startDate,e.venue].join("|"),e);let events=[...map.values()].filter(e=>new Date(e.endDate).getTime()>Date.now()-172800000).sort((a,b)=>a.startDate.localeCompare(b.startDate));let data={updatedAt:new Date().toISOString(),events,notice:"福岡市公式RSSのリンク先に日付付きEvent構造化データがある情報のみ掲載。県内全イベントの網羅ではありません。"};let json=JSON.stringify(data,null,2);for(const p of ["../data/events.json","../public/data/events.json"])fs.writeFileSync(path.join(__dirname,p),json);console.log("verified events:",events.length)})().catch(e=>{console.error(e);process.exit(1)});
