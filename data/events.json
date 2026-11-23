@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:59:42.302Z",
+  "updatedAt": "2026-11-23T09:20:37.519Z",
   "events": [
     {
       "name": "FUKUOKA OH SADAHARU LEGACY PROJECT SPECIAL MATCH",
@@ -11,6 +11,17 @@
       "url": "https://www.softbankhawks.co.jp/stadium/event_schedule/2026/",
       "source": "PayPayドーム公式",
       "description": "みずほPayPayドーム福岡 公式イベントスケジュールより"
+    },
+    {
+      "name": "ちかっぱ祭2026",
+      "startDate": "2026-11-23T00:00:00+09:00",
+      "endDate": "2026-11-23T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://bea-net.com/liveinformation/artist/2611chicappasai.html",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
     },
     {
       "name": "『Wings:あひるの夢-Fukuoka-』",
@@ -882,6 +893,17 @@
       "description": "福岡国際会議場 公式イベント情報より"
     },
     {
+      "name": "マイナビ インターンシップ＆キャリア発見EXPO 福岡会場",
+      "startDate": "2026-12-12T00:00:00+09:00",
+      "endDate": "2026-12-12T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://job.mynavi.jp/conts/event/2028/10792/index.html",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
+    },
+    {
       "name": "Hey! Say! JUMP DOME TOUR 2026-2027 Juliet",
       "startDate": "2026-12-12T00:00:00+09:00",
       "endDate": "2026-12-13T23:59:59+09:00",
@@ -902,6 +924,17 @@
       "url": "https://yomikaki.jp/pages/exhibition_kyushu/",
       "source": "福岡国際会議場公式",
       "description": "福岡国際会議場 公式イベント情報より"
+    },
+    {
+      "name": "2026九州ウェルディングフェスタ",
+      "startDate": "2026-12-18T00:00:00+09:00",
+      "endDate": "2026-12-19T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://mac-exe.co.jp/welding/welding_new/kyushu/",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
     },
     {
       "name": "GLAY 30th Anniversary ARENA TOUR 2025-2026 “DRIVE 2025-2026”",
@@ -1047,6 +1080,28 @@
       "description": "福岡国際会議場 公式イベント情報より"
     },
     {
+      "name": "高専プラス® 仕事研究セミナー【九州地区】",
+      "startDate": "2027-01-09T00:00:00+09:00",
+      "endDate": "2027-01-09T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://kosen-plus.com/seminar/",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
+    },
+    {
+      "name": "マイナビ インターンシップ＆キャリア発見EXPO 福岡会場",
+      "startDate": "2027-01-10T00:00:00+09:00",
+      "endDate": "2027-01-10T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://job.mynavi.jp/conts/event/2028/10793/index.html",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
+    },
+    {
       "name": "福岡市「はたちのつどい」",
       "startDate": "2027-01-11T00:00:00+09:00",
       "endDate": "2027-01-11T23:59:59+09:00",
@@ -1078,6 +1133,17 @@
       "url": "https://www.ochisangyo.co.jp/event/",
       "source": "マリンメッセ福岡公式",
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "マイナビ 転職フェア 福岡 MEGA EXPO",
+      "startDate": "2027-01-16T00:00:00+09:00",
+      "endDate": "2027-01-16T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://saponet.mynavi.jp/service_career_event/detail/27011640.html",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
     },
     {
       "name": "Number_i LIVE TOUR No.III",
@@ -1212,6 +1278,17 @@
       "description": "福岡国際会議場 公式イベント情報より"
     },
     {
+      "name": "STARGLOW 1st Arena Tour 2027 Aurora – The Dawn -",
+      "startDate": "2027-02-06T00:00:00+09:00",
+      "endDate": "2027-02-07T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://www.kyodo-west.co.jp/artist_page.php?a_id=3216",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
+    },
+    {
       "name": "ENHYPEN WORLD TOUR ’BLOOD SAGA’IN JAPAN",
       "startDate": "2027-02-06T00:00:00+09:00",
       "endDate": "2027-02-07T23:59:59+09:00",
@@ -1265,6 +1342,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/16236.html",
       "source": "SOKO",
       "description": "Travis Japan 2027年 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "ナース専科 就職 合同就職説明会 2028",
+      "startDate": "2027-02-14T00:00:00+09:00",
+      "endDate": "2027-02-14T23:59:59+09:00",
+      "venue": "マリンメッセ福岡B館",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://recruit.nurse-senka.com/fair/1724?actid=fairsearch0",
+      "source": "マリンメッセ福岡B館公式",
+      "description": "マリンメッセ福岡B館（公式イベント情報より）"
     },
     {
       "name": "HIRAIDAI presents HOMECOMING 2027",
@@ -1454,5 +1542,5 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     }
   ],
-  "notice": "福岡市公式RSS、SOKO、イープラス・マリンメッセ福岡公式・PayPayドーム公式・福岡国際会議場公式（手動収集分）を掲載。県内全イベントの網羅ではありません。"
+  "notice": "福岡市公式RSS、SOKO、イープラス・マリンメッセ福岡（A館・B館）公式・PayPayドーム公式・福岡国際会議場公式（手動収集分）を掲載。県内全イベントの網羅ではありません。"
 }
