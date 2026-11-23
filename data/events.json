@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-23T08:34:17.327Z",
+  "updatedAt": "2026-11-23T08:48:14.103Z",
   "events": [
+    {
+      "name": "FUKUOKA OH SADAHARU LEGACY PROJECT SPECIAL MATCH",
+      "startDate": "2026-11-23T00:00:00+09:00",
+      "endDate": "2026-11-23T23:59:59+09:00",
+      "venue": "みずほPayPayドーム福岡",
+      "area": "福岡県福岡市",
+      "category": "スポーツ",
+      "url": "https://www.softbankhawks.co.jp/stadium/event_schedule/2026/",
+      "source": "PayPayドーム公式",
+      "description": "みずほPayPayドーム福岡 公式イベントスケジュールより"
+    },
     {
       "name": "『Wings:あひるの夢-Fukuoka-』",
       "startDate": "2026-11-23T12:00:00+09:00",
@@ -948,6 +959,17 @@
       "description": "THE RAMPAGE 2026-2027 カウントダウンライブ（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "トミカ博 in FUKUOKA ～トミカ＆プラレール～",
+      "startDate": "2027-01-01T00:00:00+09:00",
+      "endDate": "2027-01-04T23:59:59+09:00",
+      "venue": "みずほPayPayドーム福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.softbankhawks.co.jp/stadium/event_schedule/2027/",
+      "source": "PayPayドーム公式",
+      "description": "みずほPayPayドーム福岡 公式イベントスケジュールより"
+    },
+    {
       "name": "福岡市「はたちのつどい」",
       "startDate": "2027-01-11T00:00:00+09:00",
       "endDate": "2027-01-11T23:59:59+09:00",
@@ -957,6 +979,17 @@
       "url": "https://kodomo.city.fukuoka.lg.jp/info/3486/",
       "source": "マリンメッセ福岡公式",
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "新春!!第4回 「福岡くんに憧れた大人の本気」～夢のタッグで挑む2027～",
+      "startDate": "2027-01-12T00:00:00+09:00",
+      "endDate": "2027-01-12T23:59:59+09:00",
+      "venue": "みずほPayPayドーム福岡",
+      "area": "福岡県福岡市",
+      "category": "その他",
+      "url": "https://www.softbankhawks.co.jp/stadium/event_schedule/2027/",
+      "source": "PayPayドーム公式",
+      "description": "みずほPayPayドーム福岡 公式イベントスケジュールより"
     },
     {
       "name": "新春アイラブホームフェア2027",
@@ -1023,6 +1056,17 @@
       "url": "https://misiasp.com/beyondfreedom2027/",
       "source": "マリンメッセ福岡公式",
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "FUKUOKA MUSIC FES.2027",
+      "startDate": "2027-01-30T00:00:00+09:00",
+      "endDate": "2027-01-31T23:59:59+09:00",
+      "venue": "みずほPayPayドーム福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://www.softbankhawks.co.jp/stadium/event_schedule/2027/",
+      "source": "PayPayドーム公式",
+      "description": "みずほPayPayドーム福岡 公式イベントスケジュールより"
     },
     {
       "name": "STARTS presents MISIA BIG BAND ORCHESTRA 2027 BEYOND FREEDOM",
@@ -1300,5 +1344,5 @@
       "description": "マリンメッセ福岡A館（公式イベント情報より）"
     }
   ],
-  "notice": "福岡市公式RSS、SOKO、イープラス・マリンメッセ福岡公式（手動収集分）を掲載。県内全イベントの網羅ではありません。"
+  "notice": "福岡市公式RSS、SOKO、イープラス・マリンメッセ福岡公式・PayPayドーム公式（手動収集分）を掲載。県内全イベントの網羅ではありません。"
 }
