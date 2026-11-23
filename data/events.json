@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:12:35.989Z",
+  "updatedAt": "2026-11-23T08:19:17.017Z",
   "events": [
     {
       "name": "『Wings:あひるの夢-Fukuoka-』",
@@ -552,6 +552,193 @@
       "description": "チケット: 受付中（イープラス掲載情報）"
     },
     {
+      "name": "第4回 ものづくり ワールド [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/kyushu/ja-jp.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "設計･製造ソリューション展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/dms.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "機械要素技術展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/mtech.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "工場設備・備品展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/factex.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "次世代 3Dプリンタ展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/am.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "計測・検査・センサ展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/mts.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "製造業DX展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/mdx.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "ものづくりODM/EMS展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/odm.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "製造業サイバーセキュリティ展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/cybersecurity.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "スマートメンテナンス展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/maintenance.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "ものづくりNEXT [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/next.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "製造業×フィジカルAI展 [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/physicalai.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "第1回 九州 半導体ワールド in 福岡",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/kyushu-semiconductor-world.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "半導体装置 開発展",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/kyushu-semiconductor-world.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "半導体工場 設備・運用展",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/kyushu-semiconductor-world.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "第1回 猛暑テック [福岡]",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.material-expo.jp/hub/ja-jp/exhibit/ehc.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "EDIXツアーin福岡 2026",
+      "startDate": "2026-12-02T00:00:00+09:00",
+      "endDate": "2026-12-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.edix-expo.jp/hub/ja-jp/fukuoka.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
       "name": "～ Our Best Harmony ～ 由紀さおり･安田祥子with 松阪ゆうき 童謡コンサート40th ～あしたへ贈る歌～",
       "startDate": "2026-12-02T14:30:00+09:00",
       "endDate": "2026-12-02T14:30:00+09:00",
@@ -594,6 +781,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/15670.html",
       "source": "SOKO",
       "description": "Snow Man 2026-2027 5大ドームツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "デュエル・マスターズ25周年ツアー 福岡会場",
+      "startDate": "2026-12-06T00:00:00+09:00",
+      "endDate": "2026-12-06T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "その他",
+      "url": "https://dm25th-tour.jp/#about",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
       "name": "TOMOHISA YAMASHITA TOUR 2026 DREAMING",
@@ -640,6 +838,17 @@
       "description": "Mrs. GREEN APPLE 2026年 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "BUMP OF CHICKEN TOUR 2026 “FIREFLY”",
+      "startDate": "2026-12-12T00:00:00+09:00",
+      "endDate": "2026-12-13T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://www.kyodo-west.co.jp/artist_page.php?a_id=117",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
       "name": "BUMP OF CHICKEN TOUR 2026",
       "startDate": "2026-12-12T00:00:00+09:00",
       "endDate": "2026-12-13T23:59:59+09:00",
@@ -660,6 +869,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/16103.html",
       "source": "SOKO",
       "description": "Hey! Say! JUMP 2026-2027 4大ドームツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "GLAY 30th Anniversary ARENA TOUR 2025-2026 “DRIVE 2025-2026”",
+      "startDate": "2026-12-19T00:00:00+09:00",
+      "endDate": "2026-12-20T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://land-f.jp/shows/11374/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
       "name": "GLAY ARENA TOUR 2026-2027 ”EXOFIRE”",
@@ -695,6 +915,17 @@
       "description": "小山慶一郎（NEWS）2026年 ソロイベント（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "Saucy Dog 5th Album「あすか」リリースツアー”明日をみる旅”",
+      "startDate": "2026-12-23T00:00:00+09:00",
+      "endDate": "2026-12-23T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://www.kyodo-west.co.jp/artist_page.php?a_id=2029",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
       "name": "Saucy Dog ARENA TOUR 2026-2027 NEW GAME＋",
       "startDate": "2026-12-23T00:00:00+09:00",
       "endDate": "2026-12-23T23:59:59+09:00",
@@ -717,6 +948,17 @@
       "description": "BIGBANG 2026年 来日公演（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "UVERworld PREMIUM LIVE 2025-2026",
+      "startDate": "2026-12-30T00:00:00+09:00",
+      "endDate": "2026-12-31T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://bea-net.com/liveinformation/artist/2612uverworld.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
       "name": "THE RAMPAGE COUNTDOWN LIVE 2026→2027",
       "startDate": "2026-12-31T00:00:00+09:00",
       "endDate": "2026-12-31T23:59:59+09:00",
@@ -728,6 +970,28 @@
       "description": "THE RAMPAGE 2026-2027 カウントダウンライブ（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "福岡市「はたちのつどい」",
+      "startDate": "2027-01-11T00:00:00+09:00",
+      "endDate": "2027-01-11T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "その他",
+      "url": "https://kodomo.city.fukuoka.lg.jp/info/3486/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "新春アイラブホームフェア2027",
+      "startDate": "2027-01-15T00:00:00+09:00",
+      "endDate": "2027-01-16T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://www.ochisangyo.co.jp/event/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
       "name": "Number_i LIVE TOUR No.III",
       "startDate": "2027-01-16T00:00:00+09:00",
       "endDate": "2027-01-17T23:59:59+09:00",
@@ -737,6 +1001,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/15657.html",
       "source": "SOKO",
       "description": "Number_i ライブツアー日本公演（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "ミュージカル『刀剣乱舞』 祝玖寿 乱舞音曲祭",
+      "startDate": "2027-01-22T00:00:00+09:00",
+      "endDate": "2027-01-24T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "舞台・演劇",
+      "url": "https://musical-toukenranbu.jp/pages/shinkenranbusai2026",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
       "name": "Bruno Mars - The Romantic Tour in Japan",
@@ -761,6 +1036,17 @@
       "description": "堂本光一（ DOMOTO）主演ミュージカル「Endless SHOCK Memories -CONTINUE-」（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "MISIA THE TOUR OF MISIA 2027 “THE SPIRIT OF BEYOND FREEDOM”",
+      "startDate": "2027-01-30T00:00:00+09:00",
+      "endDate": "2027-01-31T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://misiasp.com/beyondfreedom2027/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
       "name": "STARTS presents MISIA BIG BAND ORCHESTRA 2027 BEYOND FREEDOM",
       "startDate": "2027-01-30T00:00:00+09:00",
       "endDate": "2027-01-31T23:59:59+09:00",
@@ -772,6 +1058,50 @@
       "description": "MISIA 2027年 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
     },
     {
+      "name": "第2回［九州］次世代物流展",
+      "startDate": "2027-02-03T00:00:00+09:00",
+      "endDate": "2027-02-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://k-logi.jp/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "第１回［九州］次世代工場展",
+      "startDate": "2027-02-03T00:00:00+09:00",
+      "endDate": "2027-02-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://k-kojo.jp/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "第1回［九州］倉庫・工場向けロボット展",
+      "startDate": "2027-02-03T00:00:00+09:00",
+      "endDate": "2027-02-04T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://k-robo.jp/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "マイナビ 就活直前EXPO 福岡会場",
+      "startDate": "2027-02-05T00:00:00+09:00",
+      "endDate": "2027-02-05T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://job.mynavi.jp/conts/event/2028/11135/index.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
       "name": "ENHYPEN WORLD TOUR ’BLOOD SAGA’IN JAPAN",
       "startDate": "2027-02-06T00:00:00+09:00",
       "endDate": "2027-02-07T23:59:59+09:00",
@@ -781,6 +1111,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/15285.html",
       "source": "SOKO",
       "description": "ENHYPEN 来日公演 4大ドームツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "ビューティーワールド 福岡",
+      "startDate": "2027-02-08T00:00:00+09:00",
+      "endDate": "2027-02-10T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "展示会・学会",
+      "url": "https://beautyworld-japan-fukuoka.jp.messefrankfurt.com/fukuoka/ja.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
       "name": "AAA LIVE & TALK TOUR 2027 ～Rainbow Goes On～",
@@ -814,6 +1155,39 @@
       "url": "https://live-events.a-jp.org/soko/evg/16236.html",
       "source": "SOKO",
       "description": "Travis Japan 2027年 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "HIRAIDAI presents HOMECOMING 2027",
+      "startDate": "2027-02-20T00:00:00+09:00",
+      "endDate": "2027-02-21T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://www.kyodo-west.co.jp/artist_page.php?a_id=2028",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "COMIC CITY 福岡 65",
+      "startDate": "2027-02-28T00:00:00+09:00",
+      "endDate": "2027-02-28T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "その他",
+      "url": "https://www.akaboo.jp/event/item/20208013.html",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
+    },
+    {
+      "name": "Creepy Nuts ONEMAN TOUR 2027「MOTHER EARTH」",
+      "startDate": "2027-03-06T00:00:00+09:00",
+      "endDate": "2027-03-06T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://www.kyodo-west.co.jp/artist_page.php?a_id=2392",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
       "name": "sumika Live Tour 2027 『Laurens Library』",
@@ -869,6 +1243,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/16345.html",
       "source": "SOKO",
       "description": "Mr.Children 2027年 ドーム＆スタジアムツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "EIKICHI YAZAWA CONCERT TOUR 2027「GOLD RUSH 2027」",
+      "startDate": "2027-05-08T00:00:00+09:00",
+      "endDate": "2027-05-09T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://goldrush2027.eikichiyazawa.com/",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
     },
     {
       "name": "EIKICHI YAZAWA CONCERT TOUR『GOLD RUSH 2027』",
@@ -935,6 +1320,17 @@
       "url": "https://live-events.a-jp.org/soko/evg/14935.html",
       "source": "SOKO",
       "description": "Vaundy 2027-2028 全国アリーナツアー（SOKO掲載情報・開始時刻は未掲載）"
+    },
+    {
+      "name": "SUPER BEAVER 20th Anniversary 都会のラクダSP 〜超駱駝〜",
+      "startDate": "2028-01-29T00:00:00+09:00",
+      "endDate": "2028-01-30T23:59:59+09:00",
+      "venue": "マリンメッセ福岡",
+      "area": "福岡県福岡市",
+      "category": "ライブ・コンサート",
+      "url": "https://sp.super-beaver.com/feature/tour2728?_normalbrowse_=1",
+      "source": "マリンメッセ福岡公式",
+      "description": "マリンメッセ福岡A館（公式イベント情報より）"
     }
   ],
   "notice": "福岡市公式RSS、SOKO、イープラス（手動収集分）を掲載。県内全イベントの網羅ではありません。"
