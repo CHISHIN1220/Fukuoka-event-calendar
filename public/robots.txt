@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chishin1220.github.io/Fukuoka-event-calendar/sitemap.xml
